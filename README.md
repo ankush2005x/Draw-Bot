@@ -26,3 +26,7 @@ This project aims to create an CNC based drawing robot that can produce highly p
   - Motor drivers overheated in short durations.
   - Unavailability of necessary nuts, bolts, screws, and washers.
   - Compatibility issues emerged between different parts due to Version mismatches in various software components
+
+<br>
+
+DrawBot Assembly Manual [Link](https://github.com/ankush2005x/Draw-Bot/blob/main/DrawBotAssemblyUserGuideV3.pdf) 
