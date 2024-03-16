@@ -30,3 +30,5 @@ This project aims to create an CNC based drawing robot that can produce highly p
 <br>
 
 DrawBot Assembly Manual [Link](https://github.com/ankush2005x/Draw-Bot/blob/main/DrawBotAssemblyUserGuideV3.pdf) 
+
+### Drawbot Video In Operation : [Link](https://drive.google.com/file/d/1lUk22b0WShmfamX5dBkmS7bvJVoDoM_B/view?usp=sharing)
